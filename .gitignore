@@ -1,0 +1,4 @@
+.env
+scheduled_messages.json
+__pycache__/
+*.pyc
